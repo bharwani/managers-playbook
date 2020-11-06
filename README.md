@@ -48,7 +48,7 @@ Heuristics for effective management.
 1. Be the cheerleader. Celebrate success often and reinforce positive behavior.
 1. Know how to differentiate between [reversible and irreversible decisions][making-decisions].
 1. Ensure every report is aware of the top priorities of the team, organization and company.
-1. No task is beneath a manager. Get your hands dirty even if it's not coding:
+1. No task is beneath a manager. Get your hands dirty even if it's not coding:  
     <img src="images/non-coding-contributions.png" width="400">
 
 
@@ -155,11 +155,14 @@ Heuristics for effective management.
 1. What would you do with one more person?
 1. How is your team moving the needle? Are you focusing on the right things? How do you know the features you're building will benefit the customer?
 1. What are your product's mission and tenets?
+1. What is your team's morale? Have you asked them what's not fun about working here?
 1. What are the company's top priorities this year? Where should the company be three years from now?
 1. What are your "rocks" and "pebble" projects this quarter?
 1. What company annual goals is your team driving and in what way?
 1. If you were to get promoted, who from your team would take your place? What skills or experience does this person need to acquire?
 1. What are your team's pain points? How can you move 2x faster?
+1. How well can your team operate without you?
+1. If the company failed, what would be most likely reason?
 1. What ["dogs not barking"](http://www.mikepope.com/blog/AddComment.aspx?blogid=2392) do you worry about?
 
 
@@ -168,7 +171,7 @@ Heuristics for effective management.
 1. Determine if the decision is [reversible vs. irreversible](https://fs.blog/2018/04/reversible-irreversible-decisions/).
     - Reversible decisions can easily be changed. Examples: changing stand up time, contributing guidelines.
     - Irreversible decisions cannot be changed without significant rework. These decisions should take
-  longer and be documented and discussed. Examples: architecture changes, language decision, data models.
+  longer and be documented and discussed. Examples: architecture changes, hiring, org changes, data models.
     - A rubric on technology decisions by [Sam Newman](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform/dp/1492047848):
     <img src="images/tech-decisions.jpg" width="400">
 1. Whenever there is disagreement, focus on the intended outcome of the decision and make sure the team
@@ -209,13 +212,14 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
 ### Writing
 
 1. Favor long-form writing for proposals over presentations. Writing forces the author to think about the details and tradeoffs.
-1. Favor enumerated lists over bullet list; they're are a lot easier to reference.
+1. Favor enumerated lists over bullet list; they're easier to reference.
 1. Encourage Amazon-style ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).  
     <img src="images/write-like-an-amazonian.jpg" width="400">
 1. Write music.  
     <img src="images/write-music.png" width="400">
 1. Examples:
-    1. [It's time to build](https://a16z.com/2020/04/18/its-time-to-build/)
+    1. [It's Time to Build](https://a16z.com/2020/04/18/its-time-to-build/)
+    1. [We Don’t Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
 
 ### Email
 
@@ -224,7 +228,7 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
     1. First Paragraph — no more than 2 sentences. This would be the headline and critical information
     1. Second paragraph — 3–7 bullets. The more bullets, the lower line length. Aim to not wrap sentences.
     1. Third (final) paragraph — no more than 2–3 sentences focused on the action needed, follow up, and timelines.
-
+1. "Schedule send" emails when outside of business hours unless they're just FYIs or you need an immediate response.
 
 ### Meetings
 
@@ -253,10 +257,13 @@ What to look for in senior engineers:
     1. "Can you tell me about a time when you had to solve an ambitious problem? Why was the problem important?"
     1. "Can you tell me about a time when you had to make a decision without complete information? What was the situation? What risks did you take? Why did you make the decision you made?"
 1. **Team player**. Takes feedback well.
+    1. "Tell me about a time when you changed your mind about something. What was your thought process behind it?"
     1. "Tell me about a time when you disagreed with your manager. What did you learn from this situation?"
     1. "Tell me about a time when you needed the cooperation of a peer who was resistant. What did you do? What was the outcome?"
     1. "Give me an example of a tough or critical piece of feedback you received. What was it and what did you do about it?"
+    1. "If I were to speak with your peers what positive or negative feedback would they have of you?"
 1. **Communicator**. Can articulate ideas at different levels.
+    1. "What makes a great engineer?"
     1. "Describe to me something you know well."
     1. "You mentioned X in your resume. Explain it to me as if I've never come across it?"
 1. **Teacher**. Enjoys growing other engineers. Especially important for senior-level engineers.
@@ -342,9 +349,10 @@ Onboarding material:
 
 ## Further reading
 
-1. [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
+1. [Amazon Leadership Principles](https://www.amazon.jobs/en/principles): The best principles around leadership to operate by.
 1. [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/): Excellent guide for all levels of management.
 1. [97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should-ebook/dp/B081TPX6NS): Collection of management tips from various practitioners.
+1. [5 questions every Engineering Manager should be asking themselves](https://www.getclockwise.com/blog/5-questions-every-engineering-manager-should-be-asking-themselves)
 1. [The Pendulum or the Ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/): On the challenges of being a manager who wants to stay technical.
 1. [Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building-ebook/dp/B00DQ845EA): More at the executive-level side but still a worthwhile.
 1. [What You Do Is Who You Are](https://www.amazon.com/What-You-Do-Who-Are/dp/0062871331): Why company culture matters and how to establish one.
